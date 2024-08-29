@@ -11,6 +11,7 @@ testing environment is correctly set up. This dummy file is
 also useful for practicing version control, debugging, and 
 collaboration among team members in a development setting. 
 It is not intended for production use or complex calculations.
+dummy change "Amar AlAzizy"
 """
 
 def add(a, b):
