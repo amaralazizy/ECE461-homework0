@@ -27,11 +27,11 @@ def divide(a, b):
     if b == 0:
         raise ValueError("Cannot divide by zero!")
     return a / b
-def modulus(a,b)
+def modulus(a,b):
     return a%b
 
 if __name__ == "__main__":
-    print("Addition of 10 and 5:", add(10, 5))
+    print("Addition of ten and five:", add(10, 5))
     print("Subtraction of 10 and 5:", subtract(10, 5))
     print("Multiplication of 10 and 5:", multiply(10, 5))
     print("Division of 10 by 5:", divide(10, 5))
